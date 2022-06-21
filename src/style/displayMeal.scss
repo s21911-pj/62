@@ -1,0 +1,33 @@
+.details {
+
+    background-color: deeppink;
+    color: white;
+
+    h4{
+        border-style: dotted;
+        border-width: 3px;
+        color: black;
+        box-shadow: 5px 5px 5px 5px yellow;
+    }
+
+    .row {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .ingredients{
+        column-count: 2;
+        font-weight: bold;
+
+    }
+
+    .instructions {
+        margin-top: 10px;
+        border: 5px black solid;
+        background-color: yellow;
+        color: black;
+        font-weight: bold;
+    }
+
+
+}

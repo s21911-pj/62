@@ -1,0 +1,73 @@
+h1{
+    font-size: 40px;
+    text-shadow: 15px 15px 15px 15px yellow;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+.meals {
+    width: 100%;
+    float: left;
+    background-color: deeppink;
+    height: auto;
+    padding: 60px 0px;
+}
+img{
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px 10px yellow;
+}
+
+.section {
+    float: left;
+    width: 100%;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    z-index: 5;
+}
+p{
+    font-size: small;
+}
+.row div{
+    margin-top: 20px;
+    background-color: deeppink;
+    border-radius: 25px;
+}
+
+.meal {
+    border-radius: 25px;
+    box-shadow: 0px 1px 35px gold, 0px 1px 25px gold;
+    background: whitesmoke;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+}
+
+.meal figure {
+    margin: 0;
+}
+
+.meal figure img {
+    height: 300px;
+}
+
+h4 {
+    color: black;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: bold;
+}
+
+button {
+    margin-left: 10px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    width: 100px;
+}
